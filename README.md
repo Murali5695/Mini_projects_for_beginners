@@ -1,6 +1,6 @@
 # 12 Mini_projects_for_beginners
-⭐️ Course Contents ⭐️\n
-⌨️ 1. Madlibs 
+⭐️ Course Contents ⭐️
+⌨️ 1. Madlibs \n
 ⌨️ 2. Guess the Number (computer) 
 ⌨️ 3. Guess the Number (user)
 ⌨️ 4. Rock Paper Scissors
