@@ -1,4 +1,4 @@
-# 12 Mini_projects_for_beginners
+# 12 Mini_projects_for_beginners \n
 ⭐️ Course Contents ⭐️
 ⌨️ 1. Madlibs \n
 ⌨️ 2. Guess the Number (computer) 
